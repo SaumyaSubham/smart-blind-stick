@@ -1,4 +1,4 @@
-# 👓 Smart Blind Stick (Without GPS)
+#  Smart Blind Stick (Without GPS)
 
 Final Year Major Project | Department of Computer Science & Engineering  
 **DRIEMS University, Cuttack, Odisha**
@@ -77,12 +77,6 @@ SmartBlindStick/
 
 ---
 
-## 🖼️ Model Preview
-
-> ![Smart Blind Stick Model](images/model_photo.jpg)
-
----
-
 ## 🧪 Working Principle
 
 - The ultrasonic sensor sends out sound waves and measures reflection time.
@@ -103,7 +97,7 @@ SmartBlindStick/
 
 ## 📷 Image
 
-![Smart Blind Stick](image/Smart Blind Stick.jpg)
+> ![Smart Blind Stick Model](image/SmartBlindStick.jpg)
 
 ---
 
